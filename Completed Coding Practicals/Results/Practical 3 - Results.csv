@@ -1,0 +1,301 @@
+CUSTOMER_ID;Age (NULLs as 0);GENDER;ITEM_PURCHASED;Category (NULLs as Unknown);purchase_amount (NULLs as 0);LOCATION;SIZE;COLOR;Season (NULLs as Unknown Season);Review Rating (NULLs as 0);SUBSCRIPTION_STATUS;SHIPPING_TYPE;DISCOUNT_APPLIED;PROMO_CODE_USED;Previous Purchases (NULLs as 0);Payment Method (NULLs as Not Provided);Frequency of Purchases (NULLs as Unknown);Spender Category;Delivery Speed
+1;64.0;Male;Jeans;Footwear;20.0;Maine;M;;Winter;3.7;TRUE;Standard;TRUE;;26.0;PayPal;Every 3 Months;Low;Slow
+2;65.0;Male;Jeans;Footwear;21.0;Rhode Island;XL;Turquoise;Winter;2.7;TRUE;Store Pickup;TRUE;FALSE;12.0;Debit Card;Weekly;Low;Other
+3;43.0;Male;;Footwear;27.0;;L;Black;Spring;2.9;TRUE;;TRUE;TRUE;50.0;Debit Card;Bi-Weekly;Low;Other
+4;0.0;Male;Handbag;Outerwear;45.0;Oregon;XL;Green;Winter;3.9;TRUE;Express;TRUE;TRUE;11.0;Debit Card;Monthly;Low;Fast
+5;0.0;Male;Coat;Unknown Category;80.0;Rhode Island;XL;Turquoise;Winter;3.9;TRUE;Store Pickup;TRUE;TRUE;19.0;Not Provided;Annually;Medium;Other
+6;46.0;Male;Coat;Unknown Category;82.0;Florida;S;White;Unknown Season;4.9;TRUE;2-Day Shipping;TRUE;TRUE;36.0;Bank Transfer;Unknown;High;Other
+7;21.0;Male;Sandals;Outerwear;50.0;Rhode Island;L;Yellow;Summer;3.5;TRUE;Store Pickup;TRUE;FALSE;25.0;Debit Card;Fortnightly;Medium;Other
+8;0.0;Male;Sandals;Unknown Category;29.0;Oregon;M;Green;Fall;4.5;TRUE;Standard;TRUE;FALSE;0.0;Venmo;Bi-Weekly;Low;Slow
+9;21.0;Male;Shirt;Clothing;100.0;Kentucky;M;Pink;Spring;4.6;TRUE;Store Pickup;TRUE;FALSE;39.0;Venmo;Annually;High;Other
+10;22.0;Male;Shoes;Unknown Category;97.0;Rhode Island;S;Green;Spring;3.6;TRUE;2-Day Shipping;TRUE;TRUE;11.0;Bank Transfer;Every 3 Months;High;Other
+11;39.0;Male;Handbag;Clothing;74.0;Florida;;Pink;Winter;0.0;TRUE;Standard;TRUE;TRUE;26.0;Credit Card;Bi-Weekly;Medium;Slow
+12;31.0;Male;Sneakers;Clothing;59.0;New York;L;Maroon;Spring;4.1;TRUE;Store Pickup;TRUE;;47.0;Cash;Monthly;Medium;Other
+13;0.0;Male;Shoes;Outerwear;0.0;Oregon;S;Turquoise;Fall;4.2;TRUE;Standard;TRUE;TRUE;3.0;Credit Card;Weekly;Low;Slow
+14;23.0;Male;Sneakers;Clothing;91.0;New York;XL;Pink;Summer;0.0;TRUE;Standard;TRUE;FALSE;20.0;Cash;Fortnightly;High;Slow
+15;41.0;Male;Jeans;Clothing;54.0;Kentucky;;Black;Summer;3.1;TRUE;;TRUE;TRUE;27.0;Not Provided;Monthly;Medium;Other
+16;69.0;Male;Shoes;Accessories;52.0;Rhode Island;M;Turquoise;Summer;4.5;TRUE;Standard;TRUE;FALSE;43.0;Not Provided;Every 3 Months;Medium;Slow
+17;52.0;Male;Shorts;Outerwear;39.0;New York;L;Green;Summer;4.1;TRUE;Free Shipping;TRUE;FALSE;2.0;Credit Card;Unknown;Low;Other
+18;37.0;Male;Shirt;Outerwear;94.0;Florida;M;;Summer;5.0;TRUE;2-Day Shipping;TRUE;FALSE;41.0;Debit Card;Bi-Weekly;High;Other
+19;41.0;Male;Jeans;Footwear;23.0;Kentucky;M;Turquoise;Unknown Season;4.9;TRUE;2-Day Shipping;TRUE;TRUE;15.0;Bank Transfer;Annually;Low;Other
+20;22.0;Male;Jeans;Footwear;79.0;Kentucky;S;White;Summer;2.6;TRUE;Free Shipping;TRUE;FALSE;17.0;PayPal;Every 3 Months;Medium;Other
+21;37.0;Male;Jeans;Clothing;0.0;Oregon;;Yellow;Summer;2.5;TRUE;Free Shipping;TRUE;;0.0;Bank Transfer;Monthly;Low;Other
+22;18.0;Male;Shirt;Outerwear;88.0;Maine;;;Fall;3.9;TRUE;2-Day Shipping;TRUE;FALSE;34.0;Debit Card;Quarterly;High;Other
+23;38.0;Male;Sandals;Accessories;0.0;;M;Pink;Winter;2.6;TRUE;2-Day Shipping;TRUE;FALSE;24.0;PayPal;Fortnightly;Low;Other
+24;50.0;Male;Shorts;Footwear;20.0;Rhode Island;M;Yellow;Summer;4.5;TRUE;Next Day Air;TRUE;;29.0;Not Provided;Unknown;Low;Fast
+25;22.0;Male;Shoes;Accessories;0.0;Rhode Island;L;White;Spring;2.9;TRUE;Express;TRUE;FALSE;0.0;PayPal;Fortnightly;Low;Fast
+26;61.0;Male;Coat;Footwear;31.0;;S;;Spring;2.9;TRUE;Store Pickup;TRUE;TRUE;32.0;Cash;Annually;Low;Other
+27;61.0;Male;Blouse;Accessories;36.0;Massachusetts;;White;Unknown Season;0.0;TRUE;Next Day Air;TRUE;;32.0;Bank Transfer;Unknown;Low;Fast
+28;34.0;Male;Sneakers;Outerwear;75.0;Massachusetts;L;Black;Winter;4.4;TRUE;Store Pickup;TRUE;FALSE;10.0;PayPal;Quarterly;Medium;Other
+29;70.0;Male;Sweater;Outerwear;21.0;Florida;XL;Green;Fall;3.2;TRUE;2-Day Shipping;TRUE;FALSE;5.0;Credit Card;Weekly;Low;Other
+30;19.0;Male;;Accessories;0.0;Maine;XL;Green;Winter;3.5;TRUE;Standard;TRUE;TRUE;34.0;Venmo;Monthly;Low;Slow
+31;29.0;Male;Sweater;Unknown Category;36.0;;XL;Green;Fall;4.1;TRUE;Free Shipping;TRUE;FALSE;30.0;Debit Card;Fortnightly;Low;Other
+32;0.0;Male;Blouse;Unknown Category;54.0;Massachusetts;;;Fall;3.9;TRUE;2-Day Shipping;TRUE;TRUE;27.0;Bank Transfer;Every 3 Months;Medium;Other
+33;47.0;Male;;Clothing;41.0;New York;S;Turquoise;Fall;0.0;TRUE;Express;TRUE;;43.0;Bank Transfer;Quarterly;Low;Fast
+34;33.0;Male;Handbag;Clothing;61.0;Florida;L;Maroon;Summer;0.0;TRUE;Next Day Air;TRUE;;17.0;Debit Card;Fortnightly;Medium;Fast
+35;0.0;Male;Shorts;Clothing;71.0;Florida;L;Green;Spring;3.0;TRUE;Store Pickup;TRUE;;16.0;Bank Transfer;Every 3 Months;Medium;Other
+36;24.0;Male;Sweater;Clothing;90.0;Texas;XL;Black;Unknown Season;2.6;TRUE;Store Pickup;TRUE;FALSE;7.0;Debit Card;Bi-Weekly;High;Other
+37;29.0;Male;Handbag;Outerwear;30.0;Oregon;M;Maroon;Summer;3.7;TRUE;2-Day Shipping;TRUE;;0.0;PayPal;Bi-Weekly;Low;Other
+38;26.0;Male;Jeans;Clothing;30.0;Rhode Island;L;Turquoise;Fall;2.6;TRUE;Store Pickup;TRUE;;12.0;PayPal;Fortnightly;Low;Other
+39;20.0;Male;Coat;Footwear;32.0;New York;XL;Turquoise;Summer;4.0;TRUE;Store Pickup;TRUE;FALSE;46.0;PayPal;Fortnightly;Low;Other
+40;29.0;Male;Sweater;Outerwear;65.0;Kentucky;M;Gray;Winter;3.3;TRUE;Next Day Air;TRUE;FALSE;0.0;Bank Transfer;Bi-Weekly;Medium;Fast
+41;67.0;Male;Blouse;Outerwear;0.0;New York;L;Green;Spring;3.7;TRUE;Next Day Air;TRUE;FALSE;19.0;Debit Card;Weekly;Low;Fast
+42;41.0;Male;Shirt;Outerwear;83.0;Maine;L;Gray;Spring;2.5;TRUE;Standard;TRUE;FALSE;19.0;Not Provided;Every 3 Months;High;Slow
+43;20.0;Male;Sneakers;Footwear;34.0;Rhode Island;L;Black;Fall;2.8;TRUE;2-Day Shipping;TRUE;FALSE;0.0;Bank Transfer;Fortnightly;Low;Other
+44;47.0;Male;;Accessories;38.0;Oregon;S;Green;Summer;0.0;TRUE;Express;TRUE;FALSE;0.0;Credit Card;Fortnightly;Low;Fast
+45;0.0;Male;Shoes;Accessories;64.0;Rhode Island;M;Maroon;Spring;3.8;TRUE;Free Shipping;TRUE;TRUE;7.0;Not Provided;Quarterly;Medium;Other
+46;18.0;Male;Shirt;Accessories;60.0;Massachusetts;L;Maroon;Spring;4.7;TRUE;Store Pickup;TRUE;;22.0;Venmo;Weekly;Medium;Other
+47;18.0;Male;Sandals;Footwear;67.0;Maine;M;;Spring;4.1;TRUE;2-Day Shipping;TRUE;TRUE;21.0;Venmo;Weekly;Medium;Other
+48;66.0;Male;Sandals;Footwear;61.0;Florida;XL;Yellow;Winter;3.7;TRUE;2-Day Shipping;TRUE;TRUE;38.0;Venmo;Annually;Medium;Other
+49;0.0;Male;Sneakers;Accessories;40.0;Maine;S;White;Winter;3.6;TRUE;Standard;TRUE;TRUE;39.0;Credit Card;Every 3 Months;Low;Slow
+50;41.0;Male;Shorts;Clothing;71.0;Maine;L;Pink;Summer;3.0;TRUE;2-Day Shipping;TRUE;FALSE;46.0;Bank Transfer;Every 3 Months;Medium;Other
+51;67.0;Male;;Footwear;91.0;;XL;Black;Spring;3.3;TRUE;Free Shipping;TRUE;FALSE;15.0;Venmo;Bi-Weekly;High;Other
+52;65.0;Male;Sandals;Accessories;71.0;Florida;L;Yellow;Summer;0.0;TRUE;2-Day Shipping;TRUE;FALSE;6.0;Venmo;Bi-Weekly;Medium;Other
+53;51.0;Male;Sandals;Clothing;28.0;Rhode Island;L;Yellow;Winter;4.4;TRUE;Standard;TRUE;FALSE;4.0;Bank Transfer;Bi-Weekly;Low;Slow
+54;49.0;Male;Handbag;Footwear;51.0;Maine;XL;White;Spring;4.1;TRUE;2-Day Shipping;TRUE;TRUE;22.0;Cash;Every 3 Months;Medium;Other
+55;62.0;Male;Shoes;Clothing;59.0;Maine;M;Turquoise;Spring;0.0;TRUE;Free Shipping;TRUE;TRUE;18.0;Debit Card;Annually;Medium;Other
+56;67.0;Male;Jeans;Accessories;53.0;Texas;S;White;Spring;4.8;TRUE;Free Shipping;TRUE;TRUE;18.0;PayPal;Monthly;Medium;Other
+57;42.0;Male;Handbag;Footwear;52.0;Oregon;L;Black;Spring;3.4;TRUE;Express;TRUE;;39.0;Cash;Weekly;Medium;Fast
+58;53.0;Male;Blouse;Outerwear;97.0;Massachusetts;XL;Yellow;Summer;5.0;TRUE;2-Day Shipping;TRUE;TRUE;24.0;Debit Card;Fortnightly;High;Other
+59;68.0;Male;Blouse;Clothing;26.0;Maine;XL;;Summer;4.6;TRUE;;TRUE;FALSE;40.0;Bank Transfer;Monthly;Low;Other
+60;62.0;Male;Sandals;Footwear;31.0;Massachusetts;L;Pink;Winter;3.4;TRUE;Next Day Air;TRUE;FALSE;1.0;Bank Transfer;Monthly;Low;Fast
+61;0.0;Male;Jeans;Clothing;51.0;Rhode Island;L;;Summer;2.5;TRUE;Standard;TRUE;;10.0;Venmo;Weekly;Medium;Slow
+62;60.0;Male;Blouse;Unknown Category;57.0;Oregon;;Maroon;Fall;4.4;TRUE;Store Pickup;TRUE;FALSE;31.0;Credit Card;Bi-Weekly;Medium;Other
+63;69.0;Male;Sneakers;Accessories;60.0;Massachusetts;S;;Spring;3.6;TRUE;Express;TRUE;;34.0;Debit Card;Monthly;Medium;Fast
+64;0.0;Male;Blouse;Accessories;81.0;Massachusetts;M;;Winter;2.5;TRUE;2-Day Shipping;TRUE;FALSE;26.0;Cash;Quarterly;High;Other
+65;35.0;Male;Shoes;Unknown Category;0.0;New York;;Black;Winter;5.0;TRUE;2-Day Shipping;TRUE;FALSE;15.0;Cash;Annually;Low;Other
+66;38.0;Male;Handbag;Clothing;46.0;Maine;XL;Yellow;Summer;3.0;TRUE;Store Pickup;TRUE;TRUE;44.0;Bank Transfer;Quarterly;Low;Other
+67;39.0;Male;;Clothing;89.0;Maine;XL;Black;Summer;4.2;TRUE;Next Day Air;TRUE;TRUE;47.0;Not Provided;Weekly;High;Fast
+68;63.0;Male;Shirt;Accessories;84.0;Maine;L;Black;Unknown Season;4.7;TRUE;2-Day Shipping;TRUE;TRUE;27.0;Venmo;Annually;High;Other
+69;22.0;Male;Shorts;Accessories;28.0;Kentucky;;Black;Fall;0.0;TRUE;Express;TRUE;FALSE;13.0;PayPal;Fortnightly;Low;Fast
+70;30.0;Male;Coat;Outerwear;72.0;New York;S;White;Summer;0.0;TRUE;Store Pickup;TRUE;FALSE;0.0;PayPal;Annually;Medium;Other
+71;38.0;Male;Sneakers;Footwear;0.0;Maine;L;Yellow;Winter;2.9;TRUE;Store Pickup;TRUE;FALSE;13.0;Debit Card;Quarterly;Low;Other
+72;67.0;Male;;Outerwear;44.0;Florida;S;Turquoise;Summer;4.9;TRUE;Standard;TRUE;FALSE;19.0;Venmo;Quarterly;Low;Slow
+73;60.0;Male;Sandals;Outerwear;65.0;Maine;;Maroon;Summer;4.3;TRUE;Standard;TRUE;FALSE;0.0;Venmo;Weekly;Medium;Slow
+74;50.0;Male;Blouse;Accessories;91.0;Kentucky;M;Black;Summer;0.0;TRUE;2-Day Shipping;TRUE;TRUE;32.0;Not Provided;Monthly;High;Other
+75;20.0;Male;Jeans;Unknown Category;43.0;Rhode Island;M;Pink;Winter;2.5;TRUE;2-Day Shipping;TRUE;FALSE;0.0;Cash;Unknown;Low;Other
+76;68.0;Male;Shoes;Footwear;82.0;Florida;L;Turquoise;Spring;2.8;TRUE;2-Day Shipping;TRUE;TRUE;34.0;Cash;Monthly;High;Other
+77;48.0;Male;Blouse;Clothing;79.0;Maine;L;Turquoise;Winter;0.0;TRUE;;TRUE;FALSE;16.0;Venmo;Bi-Weekly;Medium;Other
+78;38.0;Male;Shoes;Outerwear;0.0;Rhode Island;M;Black;Summer;4.3;TRUE;Free Shipping;TRUE;TRUE;33.0;Venmo;Monthly;Low;Other
+79;41.0;Male;Blouse;Footwear;58.0;Maine;S;Pink;Summer;0.0;TRUE;Free Shipping;TRUE;FALSE;12.0;Debit Card;Annually;Medium;Other
+80;42.0;Male;Sneakers;Outerwear;61.0;Kentucky;M;Green;Winter;2.6;TRUE;Free Shipping;TRUE;;39.0;Debit Card;Fortnightly;Medium;Other
+81;59.0;Male;Shorts;Footwear;70.0;Florida;M;;Summer;3.1;TRUE;2-Day Shipping;TRUE;FALSE;46.0;Not Provided;Monthly;Medium;Other
+82;36.0;Male;;Accessories;73.0;Rhode Island;S;Green;Summer;3.6;TRUE;Next Day Air;TRUE;TRUE;1.0;PayPal;Weekly;Medium;Fast
+83;63.0;Male;Sneakers;Clothing;37.0;New York;M;Black;Fall;3.1;TRUE;2-Day Shipping;TRUE;FALSE;0.0;Venmo;Quarterly;Low;Other
+84;67.0;Male;Coat;Outerwear;24.0;Maine;M;;Winter;4.7;TRUE;Next Day Air;TRUE;TRUE;9.0;Credit Card;Quarterly;Low;Fast
+85;33.0;Male;Sandals;Outerwear;28.0;Rhode Island;L;Yellow;Spring;4.9;TRUE;Standard;TRUE;FALSE;0.0;PayPal;Monthly;Low;Slow
+86;0.0;Male;Handbag;Accessories;75.0;;XL;Pink;Summer;3.1;TRUE;Store Pickup;TRUE;FALSE;0.0;Not Provided;Monthly;Medium;Other
+87;32.0;Male;Blouse;Accessories;42.0;Rhode Island;S;Yellow;Fall;3.9;TRUE;Next Day Air;TRUE;TRUE;16.0;Not Provided;Quarterly;Low;Fast
+88;36.0;Male;Shoes;Clothing;58.0;Kentucky;XL;Turquoise;Winter;3.5;TRUE;Express;TRUE;FALSE;32.0;PayPal;Every 3 Months;Medium;Fast
+89;46.0;Male;;Outerwear;53.0;Oregon;XL;White;Fall;3.0;TRUE;2-Day Shipping;TRUE;TRUE;28.0;Bank Transfer;Monthly;Medium;Other
+90;24.0;Male;;Accessories;90.0;Massachusetts;M;Maroon;Fall;5.0;TRUE;Next Day Air;TRUE;TRUE;43.0;Not Provided;Annually;High;Fast
+91;24.0;Male;Shoes;Clothing;54.0;;;Turquoise;Summer;4.5;TRUE;Free Shipping;TRUE;TRUE;24.0;PayPal;Unknown;Medium;Other
+92;42.0;Male;Shoes;Accessories;81.0;Florida;L;Gray;Spring;3.8;TRUE;;TRUE;TRUE;26.0;Not Provided;Weekly;High;Other
+93;0.0;Male;;Outerwear;37.0;Massachusetts;XL;Black;Fall;2.6;TRUE;Standard;TRUE;FALSE;38.0;Not Provided;Weekly;Low;Slow
+94;0.0;Male;Sneakers;Outerwear;69.0;Kentucky;M;Pink;Fall;0.0;TRUE;2-Day Shipping;TRUE;FALSE;27.0;Credit Card;Quarterly;Medium;Other
+95;42.0;Male;Blouse;Unknown Category;0.0;Massachusetts;S;Maroon;Fall;4.7;TRUE;Next Day Air;TRUE;TRUE;16.0;PayPal;Monthly;Low;Fast
+96;26.0;Male;Handbag;Footwear;89.0;Rhode Island;M;Green;Spring;0.0;TRUE;;TRUE;FALSE;2.0;Credit Card;Annually;High;Other
+97;20.0;Male;Shoes;Outerwear;56.0;New York;;White;Winter;4.7;TRUE;Free Shipping;TRUE;FALSE;4.0;Cash;Monthly;Medium;Other
+98;25.0;Male;Sandals;Outerwear;81.0;Massachusetts;M;Pink;Winter;2.7;TRUE;Standard;TRUE;TRUE;44.0;Venmo;Annually;High;Slow
+99;25.0;Male;Blouse;Footwear;51.0;Texas;L;White;Spring;2.6;TRUE;Standard;TRUE;TRUE;47.0;Credit Card;Annually;Medium;Slow
+100;41.0;Male;Sneakers;Footwear;55.0;Florida;;Maroon;Winter;4.2;TRUE;2-Day Shipping;TRUE;FALSE;17.0;Cash;Monthly;Medium;Other
+101;65.0;Male;Blouse;Unknown Category;85.0;Kentucky;S;Turquoise;Winter;3.2;TRUE;Standard;TRUE;TRUE;44.0;Debit Card;Unknown;High;Slow
+102;58.0;Male;Sneakers;Unknown Category;40.0;Kentucky;S;Green;Winter;0.0;TRUE;Express;TRUE;TRUE;45.0;Not Provided;Every 3 Months;Low;Fast
+103;67.0;Male;Sweater;Accessories;94.0;Rhode Island;L;Black;Unknown Season;4.3;TRUE;Express;TRUE;FALSE;50.0;PayPal;Unknown;High;Fast
+104;34.0;Male;Sweater;Clothing;69.0;Oregon;M;Maroon;Spring;2.9;TRUE;Store Pickup;TRUE;TRUE;4.0;Not Provided;Bi-Weekly;Medium;Other
+105;31.0;Male;Shirt;Accessories;43.0;Massachusetts;L;Gray;Fall;4.2;TRUE;;TRUE;TRUE;46.0;Debit Card;Weekly;Low;Other
+106;67.0;Male;Sandals;Footwear;79.0;Oregon;S;Yellow;Winter;4.8;TRUE;Express;TRUE;FALSE;10.0;PayPal;Unknown;Medium;Fast
+107;67.0;Male;Shirt;Clothing;71.0;Massachusetts;M;Pink;Fall;3.5;TRUE;;TRUE;TRUE;24.0;Debit Card;Annually;Medium;Other
+108;23.0;Male;Shoes;Clothing;96.0;;XL;Gray;Spring;3.9;TRUE;Store Pickup;TRUE;TRUE;47.0;Credit Card;Every 3 Months;High;Other
+109;32.0;Male;;Footwear;0.0;Maine;M;Green;Winter;0.0;TRUE;2-Day Shipping;TRUE;FALSE;21.0;Venmo;Monthly;Low;Other
+110;27.0;Male;Shorts;Footwear;53.0;Maine;M;Yellow;Winter;4.6;TRUE;Free Shipping;TRUE;FALSE;11.0;Bank Transfer;Bi-Weekly;Medium;Other
+111;44.0;Male;Sneakers;Footwear;64.0;Florida;XL;Gray;Spring;0.0;TRUE;Next Day Air;TRUE;TRUE;7.0;Bank Transfer;Weekly;Medium;Fast
+112;42.0;Male;Sneakers;Footwear;81.0;Texas;M;Pink;Fall;4.3;TRUE;Standard;TRUE;TRUE;34.0;Venmo;Unknown;High;Slow
+113;28.0;Male;Shorts;Accessories;73.0;Massachusetts;S;Green;Unknown Season;0.0;TRUE;Standard;TRUE;FALSE;30.0;Cash;Every 3 Months;Medium;Slow
+114;24.0;Male;Jeans;Outerwear;38.0;Florida;XL;White;Winter;4.7;TRUE;Next Day Air;TRUE;TRUE;48.0;Credit Card;Weekly;Low;Fast
+115;69.0;Male;;Unknown Category;99.0;Maine;S;Green;Winter;0.0;TRUE;Free Shipping;TRUE;;5.0;Credit Card;Fortnightly;High;Other
+116;29.0;Male;Sweater;Accessories;64.0;Oregon;S;Green;Winter;3.3;TRUE;2-Day Shipping;TRUE;FALSE;0.0;PayPal;Weekly;Medium;Other
+117;18.0;Male;Coat;Footwear;81.0;;S;Maroon;Summer;3.7;TRUE;Free Shipping;TRUE;TRUE;14.0;Credit Card;Quarterly;High;Other
+118;56.0;Male;Shirt;Footwear;31.0;Texas;XL;;Fall;2.9;TRUE;2-Day Shipping;TRUE;TRUE;47.0;Not Provided;Weekly;Low;Other
+119;68.0;Male;Sneakers;Unknown Category;32.0;Oregon;XL;Yellow;Winter;3.8;TRUE;Standard;TRUE;FALSE;39.0;Venmo;Every 3 Months;Low;Slow
+120;57.0;Male;Shorts;Footwear;99.0;Rhode Island;XL;Pink;Summer;3.4;TRUE;Next Day Air;TRUE;;37.0;Debit Card;Fortnightly;High;Fast
+121;47.0;Male;Coat;Clothing;60.0;Massachusetts;XL;Yellow;Spring;2.9;TRUE;Next Day Air;TRUE;TRUE;17.0;Cash;Weekly;Medium;Fast
+122;25.0;Male;;Unknown Category;37.0;New York;L;Yellow;Winter;3.2;TRUE;Next Day Air;TRUE;TRUE;49.0;Cash;Bi-Weekly;Low;Fast
+123;45.0;Male;Sneakers;Outerwear;0.0;Kentucky;XL;;Spring;0.0;TRUE;Next Day Air;TRUE;FALSE;39.0;Bank Transfer;Fortnightly;Low;Fast
+124;39.0;Male;Coat;Footwear;0.0;Texas;S;Black;Winter;4.3;TRUE;Next Day Air;TRUE;TRUE;45.0;Venmo;Weekly;Low;Fast
+125;34.0;Male;Sneakers;Clothing;28.0;Massachusetts;L;White;Unknown Season;2.8;TRUE;Standard;TRUE;;10.0;Cash;Weekly;Low;Slow
+126;59.0;Male;Jeans;Unknown Category;92.0;Maine;XL;Green;Summer;4.4;TRUE;Standard;TRUE;FALSE;46.0;Not Provided;Quarterly;High;Slow
+127;23.0;Male;Sweater;Clothing;76.0;Florida;S;Turquoise;Spring;2.6;TRUE;2-Day Shipping;TRUE;TRUE;43.0;Cash;Quarterly;Medium;Other
+128;65.0;Male;Shoes;Unknown Category;93.0;Kentucky;L;Maroon;Winter;2.5;TRUE;Store Pickup;TRUE;;8.0;PayPal;Quarterly;High;Other
+129;21.0;Male;Sneakers;Unknown Category;0.0;Kentucky;;;Unknown Season;4.2;TRUE;Standard;TRUE;TRUE;19.0;Venmo;Quarterly;Low;Slow
+130;26.0;Male;Coat;Accessories;0.0;Texas;S;Maroon;Unknown Season;0.0;TRUE;2-Day Shipping;TRUE;TRUE;18.0;PayPal;Annually;Low;Other
+131;66.0;Male;Shirt;Footwear;28.0;Kentucky;S;;Winter;3.3;TRUE;2-Day Shipping;TRUE;TRUE;21.0;Debit Card;Quarterly;Low;Other
+132;60.0;Male;Coat;Footwear;35.0;Rhode Island;S;Turquoise;Spring;4.0;TRUE;2-Day Shipping;TRUE;FALSE;20.0;Debit Card;Quarterly;Low;Other
+133;69.0;Male;Sneakers;Outerwear;40.0;Florida;M;Green;Summer;2.7;TRUE;Free Shipping;TRUE;FALSE;17.0;Bank Transfer;Bi-Weekly;Low;Other
+134;45.0;Male;Shirt;Footwear;82.0;;M;Gray;Winter;2.8;TRUE;Store Pickup;TRUE;TRUE;22.0;PayPal;Bi-Weekly;High;Other
+135;26.0;Male;Sandals;Accessories;66.0;Massachusetts;S;Pink;Fall;3.3;TRUE;Standard;TRUE;;40.0;Venmo;Monthly;Medium;Slow
+136;0.0;Male;Shoes;Footwear;86.0;Massachusetts;M;White;Spring;4.1;TRUE;Express;TRUE;FALSE;0.0;PayPal;Unknown;High;Fast
+137;46.0;Male;Sandals;Outerwear;78.0;Texas;XL;Maroon;Fall;4.0;TRUE;Free Shipping;TRUE;FALSE;5.0;Credit Card;Bi-Weekly;Medium;Other
+138;23.0;Male;Handbag;Clothing;0.0;Maine;S;Pink;Unknown Season;4.8;TRUE;2-Day Shipping;TRUE;TRUE;0.0;Cash;Every 3 Months;Low;Other
+139;62.0;Male;Shirt;Footwear;94.0;New York;XL;Turquoise;Unknown Season;0.0;TRUE;Express;TRUE;FALSE;12.0;Venmo;Weekly;High;Fast
+140;27.0;Male;Handbag;Clothing;78.0;;XL;Black;Summer;3.2;TRUE;Express;TRUE;FALSE;50.0;Venmo;Quarterly;Medium;Fast
+141;49.0;Male;Shorts;Clothing;37.0;Kentucky;M;Yellow;Fall;3.7;TRUE;;TRUE;;39.0;Credit Card;Every 3 Months;Low;Other
+142;51.0;Male;Sweater;Outerwear;31.0;Maine;M;Pink;Summer;3.7;TRUE;Free Shipping;TRUE;FALSE;0.0;Bank Transfer;Bi-Weekly;Low;Other
+143;58.0;Male;Shirt;Footwear;84.0;Oregon;S;Gray;Spring;3.0;TRUE;;TRUE;;41.0;Credit Card;Monthly;High;Other
+144;29.0;Male;Shorts;Accessories;20.0;Texas;L;;Spring;0.0;TRUE;;TRUE;TRUE;35.0;Venmo;Fortnightly;Low;Other
+145;21.0;Male;Coat;Unknown Category;58.0;Massachusetts;XL;Turquoise;Unknown Season;2.9;TRUE;Store Pickup;TRUE;FALSE;31.0;Credit Card;Fortnightly;Medium;Other
+146;58.0;Male;Shorts;Clothing;68.0;Maine;L;Gray;Summer;3.1;TRUE;2-Day Shipping;TRUE;TRUE;14.0;Credit Card;Weekly;Medium;Other
+147;52.0;Male;Sneakers;Unknown Category;37.0;Florida;;Pink;Spring;2.6;TRUE;2-Day Shipping;TRUE;TRUE;36.0;Cash;Every 3 Months;Low;Other
+148;64.0;Male;Sweater;Unknown Category;90.0;Texas;L;;Summer;3.3;TRUE;Next Day Air;TRUE;TRUE;24.0;Bank Transfer;Monthly;High;Fast
+149;63.0;Male;Blouse;Footwear;96.0;Texas;XL;Green;Winter;0.0;TRUE;;TRUE;FALSE;8.0;Cash;Quarterly;High;Other
+150;23.0;Male;Sneakers;Clothing;53.0;New York;L;Maroon;Spring;2.5;TRUE;Store Pickup;TRUE;FALSE;22.0;Credit Card;Fortnightly;Medium;Other
+151;67.0;Male;Sweater;Accessories;37.0;Kentucky;M;Turquoise;Summer;3.1;TRUE;Next Day Air;TRUE;TRUE;19.0;Bank Transfer;Monthly;Low;Fast
+152;59.0;Male;Sandals;Accessories;26.0;;L;Black;Summer;4.8;TRUE;Store Pickup;TRUE;TRUE;49.0;PayPal;Monthly;Low;Other
+153;60.0;Male;Sneakers;Outerwear;0.0;Oregon;S;Gray;Fall;0.0;TRUE;Free Shipping;TRUE;TRUE;17.0;Debit Card;Annually;Low;Other
+154;24.0;Male;Shirt;Accessories;85.0;New York;M;Black;Summer;3.7;TRUE;Next Day Air;TRUE;FALSE;16.0;Debit Card;Every 3 Months;High;Fast
+155;43.0;Male;Handbag;Accessories;92.0;Florida;S;Pink;Spring;3.1;TRUE;Store Pickup;TRUE;TRUE;29.0;Credit Card;Fortnightly;High;Other
+156;67.0;Male;;Accessories;48.0;Rhode Island;S;Yellow;Summer;3.2;TRUE;2-Day Shipping;TRUE;TRUE;34.0;Not Provided;Quarterly;Low;Other
+157;55.0;Male;Blouse;Footwear;45.0;Texas;S;Black;Fall;4.5;TRUE;Next Day Air;TRUE;FALSE;31.0;PayPal;Bi-Weekly;Low;Fast
+158;65.0;Male;Jeans;Footwear;32.0;Massachusetts;;White;Spring;4.8;TRUE;Next Day Air;TRUE;FALSE;47.0;Bank Transfer;Annually;Low;Fast
+159;0.0;Male;Shorts;Accessories;21.0;Rhode Island;XL;Maroon;Spring;4.1;TRUE;Standard;TRUE;;33.0;Not Provided;Fortnightly;Low;Slow
+160;26.0;Male;Coat;Clothing;84.0;Rhode Island;;Gray;Summer;2.6;TRUE;Next Day Air;TRUE;TRUE;48.0;Not Provided;Quarterly;High;Fast
+161;22.0;Male;;Accessories;79.0;Maine;M;;Winter;3.6;TRUE;Free Shipping;TRUE;;41.0;PayPal;Fortnightly;Medium;Other
+162;29.0;Male;Sweater;Footwear;20.0;Kentucky;XL;Green;Winter;4.6;TRUE;Next Day Air;TRUE;FALSE;25.0;PayPal;Quarterly;Low;Fast
+163;37.0;Male;Blouse;Accessories;39.0;Maine;M;White;Spring;3.0;TRUE;Store Pickup;TRUE;FALSE;0.0;Cash;Weekly;Low;Other
+164;26.0;Male;;Footwear;29.0;Kentucky;XL;White;Spring;5.0;TRUE;Express;TRUE;FALSE;22.0;Not Provided;Unknown;Low;Fast
+165;60.0;Male;;Accessories;57.0;Maine;S;Gray;Winter;4.1;TRUE;Store Pickup;TRUE;;14.0;PayPal;Weekly;Medium;Other
+166;25.0;Male;Coat;Clothing;63.0;Maine;L;Gray;Winter;2.5;TRUE;Free Shipping;TRUE;TRUE;36.0;Venmo;Weekly;Medium;Other
+167;62.0;Male;Coat;Accessories;0.0;Oregon;;Turquoise;Unknown Season;3.9;TRUE;Express;TRUE;FALSE;30.0;Cash;Bi-Weekly;Low;Fast
+168;66.0;Male;Shirt;Accessories;0.0;;L;Black;Spring;4.6;TRUE;Free Shipping;TRUE;TRUE;0.0;PayPal;Monthly;Low;Other
+169;38.0;Male;Sneakers;Footwear;39.0;Rhode Island;;Turquoise;Fall;0.0;TRUE;Express;TRUE;FALSE;13.0;Venmo;Unknown;Low;Fast
+170;37.0;Male;Handbag;Accessories;61.0;Oregon;XL;Turquoise;Spring;3.9;TRUE;Store Pickup;TRUE;TRUE;10.0;Bank Transfer;Annually;Medium;Other
+171;52.0;Male;Jeans;Accessories;95.0;Massachusetts;S;Turquoise;Spring;3.0;TRUE;2-Day Shipping;TRUE;FALSE;40.0;Cash;Fortnightly;High;Other
+172;24.0;Male;Shorts;Outerwear;0.0;Kentucky;XL;Black;Unknown Season;4.5;TRUE;2-Day Shipping;TRUE;FALSE;31.0;PayPal;Every 3 Months;Low;Other
+173;67.0;Male;Sandals;Outerwear;96.0;Texas;;Turquoise;Summer;3.5;TRUE;;TRUE;;9.0;PayPal;Unknown;High;Other
+174;24.0;Male;Sweater;Footwear;72.0;New York;XL;Turquoise;Winter;3.8;TRUE;Express;TRUE;FALSE;37.0;Debit Card;Bi-Weekly;Medium;Fast
+175;69.0;Male;Shirt;Clothing;24.0;Oregon;XL;Turquoise;Summer;3.2;TRUE;Next Day Air;TRUE;TRUE;14.0;Not Provided;Weekly;Low;Fast
+176;44.0;Male;Coat;Accessories;27.0;Maine;M;Gray;Spring;4.0;TRUE;Standard;TRUE;FALSE;26.0;PayPal;Fortnightly;Low;Slow
+177;49.0;Male;Shoes;Clothing;0.0;Maine;XL;White;Fall;2.7;TRUE;Standard;TRUE;TRUE;16.0;Cash;Quarterly;Low;Slow
+178;32.0;Male;Sneakers;Footwear;23.0;Oregon;XL;Gray;Winter;4.9;TRUE;Express;TRUE;TRUE;36.0;PayPal;Annually;Low;Fast
+179;52.0;Male;Shirt;Clothing;44.0;New York;M;Maroon;Spring;2.8;TRUE;Store Pickup;TRUE;TRUE;21.0;Credit Card;Annually;Low;Other
+180;45.0;Male;Shorts;Accessories;65.0;;XL;Yellow;Spring;2.5;TRUE;Express;TRUE;;12.0;Venmo;Monthly;Medium;Fast
+181;57.0;Male;Sandals;Accessories;32.0;New York;S;White;Fall;0.0;TRUE;Free Shipping;TRUE;FALSE;40.0;Venmo;Unknown;Low;Other
+182;59.0;Male;Sweater;Footwear;44.0;Texas;S;Green;Spring;4.3;TRUE;Store Pickup;TRUE;;38.0;Not Provided;Monthly;Low;Other
+183;69.0;Male;;Outerwear;91.0;Oregon;XL;;Spring;3.7;TRUE;Standard;TRUE;;50.0;Credit Card;Bi-Weekly;High;Slow
+184;0.0;Male;;Footwear;88.0;New York;M;Maroon;Summer;2.9;TRUE;Next Day Air;TRUE;TRUE;20.0;PayPal;Weekly;High;Fast
+185;36.0;Male;Shorts;Footwear;68.0;Rhode Island;XL;Turquoise;Summer;4.4;TRUE;Standard;TRUE;;37.0;Credit Card;Fortnightly;Medium;Slow
+186;36.0;Male;Sandals;Accessories;34.0;Florida;L;Turquoise;Fall;3.2;TRUE;2-Day Shipping;TRUE;TRUE;0.0;Debit Card;Fortnightly;Low;Other
+187;0.0;Male;Sandals;Unknown Category;27.0;Rhode Island;;Maroon;Unknown Season;4.3;TRUE;2-Day Shipping;TRUE;FALSE;30.0;Debit Card;Monthly;Low;Other
+188;58.0;Male;Shorts;Clothing;87.0;New York;M;Turquoise;Winter;0.0;TRUE;Standard;TRUE;TRUE;18.0;Debit Card;Fortnightly;High;Slow
+189;0.0;Male;Sneakers;Footwear;72.0;Florida;XL;Yellow;Fall;3.1;TRUE;Express;TRUE;FALSE;46.0;Not Provided;Quarterly;Medium;Fast
+190;28.0;Male;Shirt;Outerwear;59.0;Kentucky;L;Pink;Unknown Season;2.9;TRUE;Store Pickup;TRUE;FALSE;20.0;Venmo;Monthly;Medium;Other
+191;64.0;Male;Sneakers;Accessories;45.0;Massachusetts;S;Black;Winter;3.7;TRUE;Standard;TRUE;TRUE;37.0;Venmo;Annually;Low;Slow
+192;68.0;Male;Shorts;Outerwear;0.0;Maine;XL;Gray;Summer;0.0;TRUE;Free Shipping;TRUE;FALSE;0.0;Cash;Monthly;Low;Other
+193;44.0;Male;Shorts;Accessories;79.0;;M;Maroon;Winter;2.5;TRUE;Express;TRUE;TRUE;4.0;Credit Card;Annually;Medium;Fast
+194;58.0;Male;;Footwear;59.0;New York;S;;Winter;4.1;TRUE;Express;TRUE;FALSE;24.0;Not Provided;Fortnightly;Medium;Fast
+195;56.0;Male;Sneakers;Outerwear;0.0;Texas;L;Gray;Spring;3.4;TRUE;Standard;TRUE;;19.0;PayPal;Monthly;Low;Slow
+196;58.0;Male;Coat;Unknown Category;66.0;New York;S;White;Fall;4.5;TRUE;;TRUE;TRUE;37.0;PayPal;Weekly;Medium;Other
+197;39.0;Male;Shoes;Accessories;94.0;Oregon;L;Yellow;Fall;4.4;TRUE;Store Pickup;TRUE;FALSE;26.0;Credit Card;Quarterly;High;Other
+198;66.0;Male;;Accessories;0.0;Florida;M;Green;Spring;2.9;TRUE;Express;TRUE;FALSE;12.0;Not Provided;Fortnightly;Low;Fast
+199;50.0;Male;Sweater;Accessories;92.0;;L;Pink;Summer;0.0;TRUE;2-Day Shipping;TRUE;FALSE;22.0;Credit Card;Fortnightly;High;Other
+200;56.0;Male;Handbag;Accessories;20.0;New York;XL;White;Winter;4.0;TRUE;Store Pickup;TRUE;;33.0;Venmo;Bi-Weekly;Low;Other
+201;55.0;Male;Sweater;Footwear;68.0;Florida;XL;Maroon;Fall;3.5;TRUE;Express;TRUE;FALSE;27.0;Bank Transfer;Fortnightly;Medium;Fast
+202;65.0;Male;Sneakers;Clothing;0.0;;L;Pink;Winter;3.8;TRUE;Express;TRUE;TRUE;40.0;PayPal;Unknown;Low;Fast
+203;24.0;Male;;Footwear;71.0;Oregon;M;Turquoise;Spring;2.8;TRUE;;TRUE;FALSE;32.0;PayPal;Every 3 Months;Medium;Other
+204;67.0;Male;Shirt;Clothing;56.0;New York;S;Black;Fall;4.7;TRUE;Free Shipping;TRUE;TRUE;9.0;Venmo;Fortnightly;Medium;Other
+205;34.0;Male;;Unknown Category;99.0;Kentucky;XL;White;Summer;3.7;TRUE;Next Day Air;TRUE;FALSE;46.0;PayPal;Weekly;High;Fast
+206;47.0;Male;Sneakers;Accessories;62.0;Kentucky;XL;Pink;Spring;3.8;TRUE;Next Day Air;TRUE;TRUE;20.0;Cash;Unknown;Medium;Fast
+207;0.0;Male;Sneakers;Footwear;31.0;Oregon;XL;Black;Spring;3.5;TRUE;Express;TRUE;TRUE;3.0;Credit Card;Quarterly;Low;Fast
+208;43.0;Male;;Clothing;82.0;;M;Gray;Unknown Season;4.3;TRUE;Free Shipping;TRUE;FALSE;44.0;Venmo;Unknown;High;Other
+209;70.0;Male;Blouse;Accessories;84.0;Maine;XL;Black;Summer;4.7;TRUE;2-Day Shipping;TRUE;TRUE;25.0;PayPal;Fortnightly;High;Other
+210;21.0;Male;Sweater;Accessories;90.0;Kentucky;L;;Winter;5.0;TRUE;Store Pickup;TRUE;TRUE;23.0;PayPal;Unknown;High;Other
+211;39.0;Male;Sneakers;Footwear;41.0;Florida;XL;Yellow;Fall;5.0;TRUE;Free Shipping;TRUE;FALSE;46.0;Debit Card;Weekly;Low;Other
+212;69.0;Male;Sweater;Clothing;37.0;Maine;S;Black;Spring;3.4;TRUE;Express;TRUE;FALSE;12.0;Debit Card;Fortnightly;Low;Fast
+213;30.0;Male;Shirt;Outerwear;36.0;Rhode Island;XL;Turquoise;Unknown Season;5.0;TRUE;;TRUE;FALSE;40.0;Bank Transfer;Quarterly;Low;Other
+214;30.0;Male;Sandals;Outerwear;85.0;;M;Pink;Winter;3.8;TRUE;Express;TRUE;TRUE;24.0;Credit Card;Weekly;High;Fast
+215;49.0;Male;Shoes;Accessories;51.0;Massachusetts;L;Gray;Summer;3.5;TRUE;Express;TRUE;TRUE;0.0;PayPal;Unknown;Medium;Fast
+216;70.0;Male;Sneakers;Outerwear;52.0;New York;M;White;Summer;0.0;TRUE;Store Pickup;TRUE;FALSE;13.0;Venmo;Annually;Medium;Other
+217;0.0;Male;Shorts;Outerwear;90.0;Texas;XL;Turquoise;Spring;3.9;TRUE;Next Day Air;TRUE;FALSE;20.0;Cash;Weekly;High;Fast
+218;0.0;Male;Sweater;Accessories;59.0;Oregon;XL;White;Summer;2.9;TRUE;Store Pickup;TRUE;FALSE;14.0;Bank Transfer;Weekly;Medium;Other
+219;43.0;Male;Shoes;Accessories;78.0;Kentucky;;;Summer;4.2;TRUE;;TRUE;FALSE;27.0;Cash;Annually;Medium;Other
+220;0.0;Male;Shorts;Accessories;94.0;Massachusetts;XL;Turquoise;Spring;2.5;TRUE;Free Shipping;TRUE;TRUE;15.0;Cash;Quarterly;High;Other
+221;20.0;Male;Jeans;Clothing;73.0;New York;XL;Gray;Unknown Season;4.7;TRUE;Free Shipping;TRUE;TRUE;2.0;Venmo;Monthly;Medium;Other
+222;48.0;Male;Shoes;Footwear;89.0;;L;;Fall;2.8;TRUE;Free Shipping;TRUE;FALSE;19.0;Venmo;Unknown;High;Other
+223;52.0;Male;Handbag;Outerwear;76.0;Texas;;Gray;Winter;3.2;TRUE;;TRUE;TRUE;5.0;Debit Card;Bi-Weekly;Medium;Other
+224;0.0;Male;Sneakers;Outerwear;77.0;Massachusetts;;Gray;Spring;3.0;TRUE;Express;TRUE;FALSE;16.0;Bank Transfer;Fortnightly;Medium;Fast
+225;42.0;Male;Coat;Clothing;0.0;Florida;XL;Maroon;Winter;3.2;TRUE;2-Day Shipping;TRUE;TRUE;21.0;Cash;Weekly;Low;Other
+226;24.0;Male;Sneakers;Outerwear;79.0;Rhode Island;M;Black;Unknown Season;2.7;TRUE;Next Day Air;TRUE;TRUE;0.0;Debit Card;Bi-Weekly;Medium;Fast
+227;0.0;Male;Jeans;Outerwear;84.0;Kentucky;S;Pink;Spring;3.7;TRUE;Free Shipping;TRUE;;31.0;Credit Card;Bi-Weekly;High;Other
+228;35.0;Male;Sweater;Clothing;29.0;Oregon;M;Black;Summer;3.9;TRUE;Store Pickup;TRUE;TRUE;30.0;Debit Card;Every 3 Months;Low;Other
+229;63.0;Male;Blouse;Footwear;63.0;Rhode Island;M;Pink;Winter;3.2;TRUE;Express;TRUE;FALSE;1.0;Cash;Weekly;Medium;Fast
+230;54.0;Male;Shorts;Clothing;26.0;Maine;M;Green;Winter;3.2;TRUE;Store Pickup;TRUE;FALSE;0.0;Venmo;Annually;Low;Other
+231;41.0;Male;Jeans;Unknown Category;0.0;Maine;S;Pink;Spring;4.1;TRUE;Store Pickup;TRUE;TRUE;14.0;Venmo;Unknown;Low;Other
+232;43.0;Male;Sandals;Accessories;37.0;New York;S;Gray;Summer;4.2;TRUE;Standard;TRUE;FALSE;24.0;PayPal;Every 3 Months;Low;Slow
+233;63.0;Male;Sandals;Accessories;41.0;Oregon;S;Gray;Spring;4.0;TRUE;Standard;TRUE;TRUE;42.0;Cash;Annually;Low;Slow
+234;23.0;Male;;Accessories;0.0;Texas;XL;Maroon;Fall;4.1;TRUE;;TRUE;TRUE;30.0;Venmo;Quarterly;Low;Other
+235;20.0;Male;Sandals;Accessories;38.0;Texas;S;Gray;Winter;3.3;TRUE;;TRUE;FALSE;13.0;Venmo;Bi-Weekly;Low;Other
+236;0.0;Male;Shorts;Footwear;100.0;Texas;;White;Unknown Season;2.5;TRUE;Express;TRUE;TRUE;4.0;Credit Card;Bi-Weekly;High;Fast
+237;30.0;Male;Shoes;Accessories;0.0;Florida;S;Turquoise;Winter;4.6;TRUE;;TRUE;TRUE;7.0;Credit Card;Unknown;Low;Other
+238;46.0;Male;Sneakers;Outerwear;0.0;Florida;S;Black;Winter;3.0;TRUE;Free Shipping;TRUE;TRUE;6.0;Venmo;Fortnightly;Low;Other
+239;36.0;Male;Jeans;Clothing;30.0;Maine;S;Pink;Fall;3.7;TRUE;Express;TRUE;FALSE;2.0;Cash;Fortnightly;Low;Fast
+240;44.0;Male;Shorts;Clothing;27.0;Texas;S;Green;Summer;2.7;TRUE;;TRUE;FALSE;16.0;Bank Transfer;Bi-Weekly;Low;Other
+241;64.0;Male;Shirt;Footwear;33.0;Florida;S;Gray;Winter;2.5;TRUE;Free Shipping;TRUE;FALSE;3.0;Debit Card;Annually;Low;Other
+242;27.0;Male;Sandals;Outerwear;34.0;;XL;Pink;Winter;0.0;TRUE;Next Day Air;TRUE;;32.0;Credit Card;Bi-Weekly;Low;Fast
+243;0.0;Male;Sandals;Outerwear;52.0;Florida;L;Gray;Fall;5.0;TRUE;2-Day Shipping;TRUE;FALSE;43.0;Not Provided;Unknown;Medium;Other
+244;61.0;Male;Shirt;Outerwear;20.0;Maine;XL;Maroon;Unknown Season;4.0;TRUE;Express;TRUE;;18.0;Cash;Bi-Weekly;Low;Fast
+245;62.0;Male;Sweater;Outerwear;0.0;Oregon;L;Gray;Unknown Season;3.1;TRUE;Store Pickup;TRUE;FALSE;24.0;Venmo;Every 3 Months;Low;Other
+246;68.0;Male;Shorts;Clothing;32.0;Rhode Island;M;Pink;Fall;3.4;TRUE;Next Day Air;TRUE;TRUE;21.0;Venmo;Every 3 Months;Low;Fast
+247;43.0;Male;Shorts;Accessories;92.0;Florida;;Pink;Winter;2.5;TRUE;Next Day Air;TRUE;FALSE;23.0;Bank Transfer;Every 3 Months;High;Fast
+248;47.0;Male;Sneakers;Footwear;57.0;Texas;XL;Turquoise;Winter;2.8;TRUE;Standard;TRUE;FALSE;19.0;Not Provided;Monthly;Medium;Slow
+249;36.0;Male;Coat;Outerwear;71.0;Rhode Island;XL;Gray;Fall;3.9;TRUE;Next Day Air;TRUE;TRUE;47.0;Venmo;Monthly;Medium;Fast
+250;60.0;Male;;Unknown Category;96.0;;XL;Pink;Winter;3.8;TRUE;2-Day Shipping;TRUE;FALSE;42.0;Cash;Quarterly;High;Other
+251;55.0;Male;Sandals;Accessories;0.0;New York;L;Gray;Fall;4.5;TRUE;;TRUE;TRUE;0.0;Bank Transfer;Fortnightly;Low;Other
+252;41.0;Male;Sweater;Unknown Category;23.0;;M;Green;Fall;3.5;TRUE;2-Day Shipping;TRUE;TRUE;35.0;Credit Card;Fortnightly;Low;Other
+253;34.0;Male;Shoes;Accessories;78.0;Oregon;L;Green;Summer;3.6;TRUE;Store Pickup;TRUE;TRUE;0.0;Debit Card;Quarterly;Medium;Other
+254;52.0;Male;Sandals;Outerwear;63.0;;S;Green;Fall;4.9;TRUE;Next Day Air;TRUE;FALSE;46.0;Cash;Bi-Weekly;Medium;Fast
+255;22.0;Male;Sneakers;Unknown Category;73.0;Rhode Island;S;;Summer;4.2;TRUE;Next Day Air;TRUE;TRUE;46.0;PayPal;Quarterly;Medium;Fast
+256;64.0;Male;Handbag;Clothing;61.0;Maine;S;Yellow;Winter;4.0;TRUE;Next Day Air;TRUE;FALSE;41.0;Bank Transfer;Every 3 Months;Medium;Fast
+257;20.0;Male;Jeans;Outerwear;20.0;Kentucky;M;Turquoise;Winter;2.6;TRUE;Free Shipping;TRUE;FALSE;25.0;Cash;Bi-Weekly;Low;Other
+258;26.0;Male;Shoes;Footwear;81.0;Maine;M;Maroon;Summer;4.1;TRUE;Next Day Air;TRUE;FALSE;36.0;Bank Transfer;Bi-Weekly;High;Fast
+259;27.0;Male;Jeans;Clothing;0.0;Massachusetts;XL;Maroon;Winter;3.8;TRUE;Store Pickup;TRUE;FALSE;36.0;PayPal;Quarterly;Low;Other
+260;0.0;Male;Jeans;Footwear;94.0;Maine;M;Pink;Winter;0.0;TRUE;Express;TRUE;TRUE;0.0;Venmo;Quarterly;High;Fast
+261;47.0;Male;Shirt;Footwear;31.0;Kentucky;XL;Maroon;Summer;2.9;TRUE;Free Shipping;TRUE;TRUE;30.0;Credit Card;Quarterly;Low;Other
+262;0.0;Male;Shoes;Footwear;100.0;Florida;XL;Yellow;Spring;0.0;TRUE;;TRUE;TRUE;49.0;Debit Card;Quarterly;High;Other
+263;0.0;Male;Shorts;Footwear;0.0;Rhode Island;M;Maroon;Spring;4.7;TRUE;Standard;TRUE;FALSE;9.0;Venmo;Monthly;Low;Slow
+264;70.0;Male;Sandals;Outerwear;95.0;New York;L;;Unknown Season;4.1;TRUE;Standard;TRUE;FALSE;10.0;Cash;Unknown;High;Slow
+265;68.0;Male;Sweater;Accessories;62.0;Maine;L;Black;Spring;3.7;TRUE;Standard;TRUE;FALSE;46.0;Bank Transfer;Weekly;Medium;Slow
+266;0.0;Male;Sweater;Footwear;52.0;Massachusetts;M;Turquoise;Unknown Season;3.8;TRUE;Free Shipping;TRUE;FALSE;32.0;Debit Card;Monthly;Medium;Other
+267;57.0;Male;Jeans;Unknown Category;0.0;New York;XL;Gray;Fall;3.2;TRUE;2-Day Shipping;TRUE;FALSE;36.0;Bank Transfer;Annually;Low;Other
+268;24.0;Male;Coat;Clothing;98.0;Oregon;;;Winter;4.7;TRUE;Store Pickup;TRUE;TRUE;38.0;PayPal;Every 3 Months;High;Other
+269;36.0;Male;Blouse;Clothing;56.0;New York;M;Gray;Winter;3.9;TRUE;Express;TRUE;FALSE;16.0;Debit Card;Weekly;Medium;Fast
+270;30.0;Male;Sandals;Accessories;55.0;Kentucky;M;Pink;Fall;3.5;TRUE;Next Day Air;TRUE;FALSE;38.0;Cash;Bi-Weekly;Medium;Fast
+271;57.0;Male;Jeans;Unknown Category;94.0;Maine;L;Yellow;Winter;4.2;TRUE;Next Day Air;TRUE;TRUE;0.0;Venmo;Monthly;High;Fast
+272;0.0;Male;Handbag;Footwear;53.0;Florida;S;Green;Summer;3.2;TRUE;Standard;TRUE;FALSE;6.0;Credit Card;Every 3 Months;Medium;Slow
+273;0.0;Male;;Accessories;85.0;Rhode Island;L;Yellow;Spring;5.0;TRUE;Free Shipping;TRUE;FALSE;8.0;Venmo;Annually;High;Other
+274;69.0;Male;Sweater;Clothing;0.0;Texas;XL;Gray;Spring;4.1;TRUE;Free Shipping;TRUE;FALSE;2.0;Cash;Quarterly;Low;Other
+275;47.0;Male;Sandals;Accessories;55.0;Texas;;Pink;Fall;3.5;TRUE;Next Day Air;TRUE;TRUE;17.0;Credit Card;Unknown;Medium;Fast
+276;68.0;Male;Handbag;Outerwear;54.0;Oregon;;Gray;Winter;2.7;TRUE;Standard;TRUE;TRUE;2.0;Credit Card;Every 3 Months;Medium;Slow
+277;47.0;Male;Sweater;Accessories;66.0;Massachusetts;;Green;Winter;3.5;TRUE;Express;TRUE;;30.0;Cash;Quarterly;Medium;Fast
+278;66.0;Male;Handbag;Outerwear;42.0;Massachusetts;M;Yellow;Winter;4.8;TRUE;Standard;TRUE;FALSE;33.0;Debit Card;Quarterly;Low;Slow
+279;56.0;Male;Jeans;Accessories;73.0;Rhode Island;L;Green;Fall;3.1;TRUE;Free Shipping;TRUE;TRUE;22.0;PayPal;Quarterly;Medium;Other
+280;69.0;Male;Sneakers;Clothing;85.0;;XL;;Fall;4.4;TRUE;Express;TRUE;TRUE;29.0;Venmo;Quarterly;High;Fast
+281;41.0;Male;Sandals;Footwear;50.0;Kentucky;;Green;Winter;4.5;TRUE;Express;TRUE;FALSE;45.0;Credit Card;Fortnightly;Medium;Fast
+282;32.0;Male;Blouse;Outerwear;34.0;Texas;M;Pink;Spring;0.0;TRUE;Express;TRUE;FALSE;0.0;Debit Card;Annually;Low;Fast
+283;67.0;Male;Shorts;Unknown Category;69.0;Florida;L;Green;Spring;3.0;TRUE;2-Day Shipping;TRUE;;0.0;Bank Transfer;Bi-Weekly;Medium;Other
+284;0.0;Male;Shirt;Unknown Category;36.0;Florida;;Yellow;Spring;2.5;TRUE;Standard;TRUE;FALSE;5.0;Venmo;Annually;Low;Slow
+285;46.0;Male;Blouse;Unknown Category;68.0;Oregon;XL;White;Spring;2.9;TRUE;Next Day Air;TRUE;;39.0;PayPal;Weekly;Medium;Fast
+286;0.0;Male;Blouse;Outerwear;0.0;Massachusetts;L;Green;Winter;3.8;TRUE;Express;TRUE;TRUE;43.0;Venmo;Monthly;Low;Fast
+287;56.0;Male;Shirt;Clothing;26.0;Florida;;;Spring;3.3;TRUE;Next Day Air;TRUE;TRUE;6.0;Credit Card;Weekly;Low;Fast
+288;31.0;Male;Blouse;Footwear;53.0;Florida;XL;Green;Winter;3.8;TRUE;Free Shipping;TRUE;TRUE;19.0;Credit Card;Annually;Medium;Other
+289;0.0;Male;Shorts;Outerwear;55.0;Kentucky;M;Gray;Fall;4.1;TRUE;Store Pickup;TRUE;TRUE;42.0;Credit Card;Every 3 Months;Medium;Other
+290;33.0;Male;Shirt;Accessories;93.0;Maine;S;White;Spring;4.6;TRUE;;TRUE;FALSE;0.0;Cash;Annually;High;Other
+291;25.0;Male;Blouse;Accessories;83.0;Kentucky;L;Green;Fall;4.3;TRUE;Express;TRUE;FALSE;12.0;Bank Transfer;Quarterly;High;Fast
+292;22.0;Male;Sandals;Footwear;37.0;Florida;M;Gray;Fall;4.4;TRUE;Free Shipping;TRUE;FALSE;0.0;Debit Card;Weekly;Low;Other
+293;66.0;Male;;Clothing;35.0;Kentucky;L;Black;Winter;0.0;TRUE;;TRUE;FALSE;0.0;Credit Card;Monthly;Low;Other
+294;62.0;Male;Shoes;Clothing;62.0;New York;;Maroon;Summer;3.7;TRUE;2-Day Shipping;TRUE;;0.0;Venmo;Monthly;Medium;Other
+295;65.0;Male;Coat;Accessories;47.0;Rhode Island;S;Green;Summer;4.6;TRUE;Standard;TRUE;FALSE;23.0;PayPal;Unknown;Low;Slow
+296;54.0;Male;Sweater;Accessories;54.0;Maine;;Black;Winter;2.7;TRUE;2-Day Shipping;TRUE;FALSE;33.0;Not Provided;Weekly;Medium;Other
+297;40.0;Male;Shorts;Accessories;91.0;Massachusetts;M;Turquoise;Unknown Season;3.9;TRUE;Express;TRUE;TRUE;0.0;Debit Card;Every 3 Months;High;Fast
+298;25.0;Male;Handbag;Footwear;0.0;Oregon;M;Black;Spring;2.9;TRUE;;TRUE;TRUE;0.0;PayPal;Monthly;Low;Other
+299;49.0;Male;Jeans;Accessories;67.0;Massachusetts;M;Gray;Fall;3.1;TRUE;Store Pickup;TRUE;TRUE;29.0;PayPal;Fortnightly;Medium;Other
+300;62.0;Male;Sneakers;Outerwear;51.0;New York;XL;Maroon;Spring;5.0;TRUE;Standard;TRUE;;34.0;Cash;Quarterly;Medium;Slow
