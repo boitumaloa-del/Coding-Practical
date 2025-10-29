@@ -67,3 +67,25 @@ Key Concepts Covered:
 - Counting total orders per product
 
 - Displaying full relationship overviews between customers, products, and orders
+
+<h2> 💾 Practical 3: Advanced SQL (NULL Functions)</h2>
+
+Dataset: shopping_trends.csv
+
+<h3> Overview </h3>
+This practical develops skills in managing incomplete data and applying advanced SQL functions to produce clean, reliable results.
+
+Key Concepts Covered:
+
+- Handling NULL values using COALESCE(), ISNULL(), or conditional logic
+
+- Replacing or labeling missing fields with defaults (e.g., "Unknown", 0, "Not Provided")
+
+- Grouping and filtering data while treating NULLs consistently
+
+- Creating new computed columns with CASE statements
+
+- Performing aggregations (COUNT, SUM, AVG, MAX) with NULL-aware logic
+
+- Applying filters and conditions based on NULL and non-NULL criteria
+
